@@ -9,7 +9,7 @@ I am a technology leader with **14+ years of professional experience** in softwa
 ## 🏢 About Codexntric
 
 **Codexntric** is a **software development company** founded to deliver reliable, scalable, and business-driven digital solutions.  
-I lead teams that design, build, and maintain enterprise systems for startups, SMEs, and large organizations across the globe.
+I lead teams that design, build, and maintain enterprise systems.
 
 🔗 **All projects:** https://www.codexentric.com
 
