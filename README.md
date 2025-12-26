@@ -1,14 +1,14 @@
 # 👋 Hi, I’m Engr. Muhammad Awais
 
-### Founder & Director — Codexntric | IT Consultant | Senior Full-Stack Engineer | Instructor
+### Founder & Director — Codexentric | IT Consultant | Senior Full-Stack Engineer | Instructor
 
 I am a technology leader with **14+ years of professional experience** in software development, IT consultancy, and team leadership. I specialize in building **scalable, enterprise-grade web and mobile solutions**, mentoring developers, and delivering high-impact products for international clients.
 
 ---
 
-## 🏢 About Codexntric
+## 🏢 About Codexentric
 
-**Codexntric** is a **software development company** founded to deliver reliable, scalable, and business-driven digital solutions.  
+**Codexentric** is a **software development company** founded to deliver reliable, scalable, and business-driven digital solutions.  
 I lead teams that design, build, and maintain enterprise systems.
 
 🔗 **Website:** https://www.codexentric.com
