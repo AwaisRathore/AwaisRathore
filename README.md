@@ -17,7 +17,7 @@ I lead teams that design, build, and maintain enterprise systems.
 
 ## 🎓 Teaching & Mentorship
 
-- 👨‍🏫 **Instructor (Since 2017)**  
+- **Instructor (Since 2017)**  
   **Department of Software Engineering, University of Azad Jammu & Kashmir (UAJK)**
 - Trained hundreds of students in **professional programming and software engineering**
 - Many former students are now working successfully in the software industry
@@ -27,17 +27,17 @@ I lead teams that design, build, and maintain enterprise systems.
 
 ## 🌍 Professional Experience
 
-- 🚀 **14+ years** in software development and IT consultancy  
-- 🧾 **1300+ projects completed on Fiverr**
-- 🌐 Worked with clients from **Germany, USA, Italy, Australia**, and other international markets
-- 🧑‍💼 Led and managed **remote and on-site development teams**
-- 🏗️ Delivered **enterprise platforms, SaaS products, healthcare systems, and automation solutions**
+- **14+ years** in software development and IT consultancy  
+- **1300+ projects completed on Fiverr**
+- Worked with clients from **Germany, USA, Italy, Australia**, and other international markets
+- Led and managed **remote and on-site development teams**
+- Delivered **enterprise platforms, SaaS products, healthcare systems, and automation solutions**
 
 ---
 
 ## 🏗️ Featured Enterprise Projects
 
-### 🏥 Remote Medical Care Platform
+### Remote Medical Care Platform
 🔗 **Live:** http://care.remotemedtech.com/
 
 A comprehensive **telemedicine and remote healthcare platform** enabling secure interaction between doctors and patients.
@@ -51,7 +51,7 @@ A comprehensive **telemedicine and remote healthcare platform** enabling secure 
 
 ---
 
-### 📈 Client Ramp
+### Client Ramp
 🔗 **Live:** https://clientramp.com/
 
 **Client Ramp** is a business growth and client management platform designed to streamline client acquisition, engagement, and operations.
